@@ -21,8 +21,7 @@ This repository contains the files for a static website hosted on Amazon S3. I s
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Brief Diagram showing the entire project <br/>
-<img src="https://i.imgur.com/50IBCcy.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="1.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
 Creating the Virtual Machine  <br/>
