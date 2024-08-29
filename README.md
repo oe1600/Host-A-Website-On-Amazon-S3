@@ -1,5 +1,4 @@
 # Host-A-Website-On-Amazon-S3
-<h1>Honeypot Hosted on the Cloud</h1>
 
 
 <h2>Description</h2>
